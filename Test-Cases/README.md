@@ -4,8 +4,7 @@ This repository contains comprehensive test cases designed to validate the authe
 # Login Flow
 |  Objective | Tests Include |
 |----------|----------|
-| Verify that users can successfully log in to their Box accounts. | - Successful login with valid credentials. <br>  - Error handling with invalid credentials. <br>
-- Login with hCpatcha. | 
+| Verify that users can successfully log in to their Box accounts. | - Successful login with valid credentials. <br>  - Error handling with invalid credentials. <br> - Login with hCpatcha. | 
 
 # Logout Flow
 |  Objective | Tests Include |
