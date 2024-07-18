@@ -1,5 +1,5 @@
 # Test Cases for Box Authentication Flows
-This repository contains comprehensive test cases designed to validate the authentication and security features of the Box application. The test cases cover the following flows:
+This folder contains comprehensive test cases designed to validate the authentication and security features of the Box application. The test cases cover the following flows:
 
 # Login Flow
 |  Objective | Tests Include |
