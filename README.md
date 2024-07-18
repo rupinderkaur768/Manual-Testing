@@ -3,4 +3,4 @@ This repository contains the flow of test cases related to critical functionalit
 # Project Details
 |  Name | Description | Tools & Techniques Used |
 |----------|----------|----------|
-| Box | A leading cloud content management and file-sharing service, by introducing key features like Box Annotations and Box Sign. These features streamline document collaboration, review, and electronic signatures, offering a robust and user-friendly solution for modern enterprises. | JIRA & Agile|
+| Box | Box is a cloud-based platform that lets you securely store, manage, and share files. It's like having a digital filing cabinet accessible from your computer, phone, or tablet. You can collaborate with others on documents, control who sees your files, and even work on them offline. Think of it as a central hub for all your important documents. | JIRA & Agile|
